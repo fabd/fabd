@@ -1,4 +1,13 @@
-# Hi, I'm Fabrice
+# Hi, I'm Fabrice 👋
+
+📍 **Brussels, Belgium** | 💻 **Software Engineer & Front End** | **Learning**: Rust, AI Coding
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
 I build tools for things I'm passionate about — Japanese language learning and gaming.
 
